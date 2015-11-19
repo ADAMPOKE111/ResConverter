@@ -1,0 +1,10 @@
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\bin\Release\ResConverter.exe.config
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\bin\Release\ResConverter.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\bin\Release\ResConverter.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\bin\Release\ResConverter.xml
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\obj\Release\ResConverter.Main.resources
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\obj\Release\ResConverter.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\obj\Release\Resolution Converter.vbproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\obj\Release\ResConverter.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\obj\Release\ResConverter.xml
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\ResConverter\ResConverter\obj\Release\ResConverter.pdb

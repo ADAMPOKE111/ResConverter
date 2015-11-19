@@ -1,0 +1,11 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\bin\Debug\ResConverter.exe.config
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\bin\Debug\ResConverter.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\bin\Debug\ResConverter.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\bin\Debug\ResConverter.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.vbprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.Main.resources
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.Resources.resources
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.vbproj.GenerateResource.Cache
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\ResConverter\ResConverter\obj\Debug\ResConverter.pdb
